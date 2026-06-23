@@ -1,0 +1,6 @@
+{
+  "name": "SQL Data Analyst Path",
+  "description": "A highly personalized 4-month SQL learning course, interactive query playground, animated JOIN/query visualizer, progress tracker, and AI-powered mock interview system for aspiring Data Analysts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
